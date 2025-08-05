@@ -9,7 +9,6 @@ A simple and user-friendly desktop application developed in **C# .NET Windows Fo
 ---
 
 ## ✨ Features
-
 - 🍕 Select pizza size (Small, Medium, Large)
 - 🧀 Choose toppings (Cheese, Pepperoni, Vegetables, etc.)
 - 🍟 Add side items (Drinks, Fries, etc.)
@@ -23,7 +22,6 @@ A simple and user-friendly desktop application developed in **C# .NET Windows Fo
 ---
 
 ## 🔧 Technologies Used
-
 - **Language**: C#
 - **Framework**: .NET Framework (WinForms)
 - **IDE**: Visual Studio
@@ -31,13 +29,10 @@ A simple and user-friendly desktop application developed in **C# .NET Windows Fo
 
 ---
 
-## 📱 App Demo
-Here’s a quick preview of the app in action:
-### 🖼️ Image Preview
-![Omdat Al-Ahkam Book](assets/demo.jpeg)
-
-### 🎥 Video Demo
-[▶️ Click to watch demo](https://www.youtube.com/watch?v=KCkn0x29naA)
+## 🖼️ Image Preview
+Here’s a quick preview of the app:
+![Intro](Resources/Intro.PNG)
+![Demo](Resources/Demo.PNG)
 
 ---
 
