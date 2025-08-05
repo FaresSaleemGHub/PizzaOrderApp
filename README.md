@@ -4,7 +4,7 @@
 ---
 
 ## 📋 Overview
-A simple and user-friendly desktop application developed in **C# .NET Windows Forms**, allowing users to customize and place pizza orders with an intuitive interface.
+Pizza Order App is a simple **C# desktop application** that allows users to customize and place pizza orders through a user-friendly interface. The app supports selecting pizza sizes, toppings, and drinks, then calculates the total price instantly. It's ideal for beginners learning Windows Forms and event-driven programming in C#.
 
 ---
 
