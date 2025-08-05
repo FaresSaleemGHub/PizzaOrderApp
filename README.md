@@ -31,7 +31,7 @@ Pizza Order App is a simple **C# desktop application** that allows users to cust
 
 ## 🖼️ Image Preview
 Here’s a quick preview of the app:
-![Intro](Resources/Intro.PNG)
+![Intro](Resources/Intro3.PNG)
 ![Demo](Resources/Demo.PNG)
 
 ---
